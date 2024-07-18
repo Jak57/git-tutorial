@@ -1,6 +1,12 @@
 # git-tutorial
 Git Tutorial
 
+# Log in
+```
+git config --global user.name "name"
+git config user.email "email"
+```
+
 # Initial Setup Commands
 ```
 git init

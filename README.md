@@ -25,5 +25,6 @@ git push origin main
 
 # Git Merge
 ```
+git pull
 :q
 ```

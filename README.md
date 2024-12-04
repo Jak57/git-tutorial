@@ -22,3 +22,8 @@ git commit -m "Completed"
 git pull origin main
 git push origin main
 ```
+
+# Git Merge
+```
+:q
+```
